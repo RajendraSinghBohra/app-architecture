@@ -1,4 +1,4 @@
-package demo.com.apparcitecture;
+package demo.com.apparchitecture;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

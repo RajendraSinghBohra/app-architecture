@@ -1,4 +1,4 @@
-package demo.com.apparcitecture;
+package demo.com.apparchitecture;
 
 import org.junit.Test;
 
